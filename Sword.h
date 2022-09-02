@@ -8,7 +8,7 @@ public:
     ~Sword();
 
     void print( ) const;
-
+    int reduzirForca();
 private:
 
     double strength;
