@@ -13,7 +13,7 @@ Livro::Livro( )
    titulo = "A Selecao";
    ano = 2012;
    genero = "Romance";
-   autor = "Kiera Cass"
+   autor = "Kiera Cass";
    
 }
 

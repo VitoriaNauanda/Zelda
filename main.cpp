@@ -12,8 +12,9 @@ int main( )
     
 
     Sword royalGuardSword;
-    royalGuardSword.print();
 
+    royalGuardSword.print();
+    cout << " " << '\n';
     cout << "Usando Livro no main\n";
     Livro selecaoLivro;
     selecaoLivro.print();
